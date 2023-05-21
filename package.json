@@ -1,0 +1,31 @@
+{
+  "name": "lostarkuserinfo_node_bot",
+  "version": "0.0.1",
+  "description": "lost_ark_user_info_node_js_discord_bot_cover",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"let's go\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4a1carbin4/LostArkUserInfo.git"
+  },
+  "keywords": [
+    "lost_ark",
+    "discord"
+  ],
+  "author": "destiny3912_Origin_WaGaNaWaMG_node_js_bot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4a1carbin4/LostArkUserInfo/issues"
+  },
+  "homepage": "https://github.com/m4a1carbin4/LostArkUserInfo#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
